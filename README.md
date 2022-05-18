@@ -1,6 +1,6 @@
 # DICNAPtutorial
 
-This is the tutorial document for DICNAP method.
+This is the tutorial document for DICNAP method in R.
 
 The original paper is following;
 
